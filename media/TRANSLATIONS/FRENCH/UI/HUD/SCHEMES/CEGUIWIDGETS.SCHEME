@@ -1,20 +1,23 @@
-﻿<?xml version="1.0" ?>
+<?xml version="1.0" ?>
 <GUIScheme Name="newHud">
-	<Imageset Name="ceguiWidget" Filename="media/translations/french/ui/hud/schemes/ceguiWidget.imageset" />	
-	<Font Name="TorchlightFont" Filename="media/translations/french/ui/TorchlightFont.font" />
+	<Imageset Name="taptapLoginButton" Filename="media/ui/hud/schemes/taptapLoginButton.imageset" />
+	<Imageset Name="ceguiWidget" Filename="media/translations/FRENCH/UI/hud/schemes/ceguiWidget.imageset" />	
+	<Font Name="TorchlightFont" Filename="media/translations/FRENCH/UI/TorchlightFont.font" />
 
-	<Font Name="Serif" Filename="media/translations/french/ui/Serif.font" />
-	<Font Name="SerifBig" Filename="media/translations/french/ui/SerifBig.font" />
-	<Font Name="SerifGrand" Filename="media/translations/french/ui/SerifGrand.font" />
-	<Font Name="SerifHuge" Filename="media/translations/french/ui/SerifHuge.font" />
-	<Font Name="SerifSmall" Filename="media/translations/french/ui/SerifSmall.font" />
-	<Font Name="Serif14" Filename="media/translations/french/ui/Serif14.font" />
-	<Font Name="System" Filename="media/translations/french/ui/System.font" />
-	<Font Name="Arial" Filename="media/translations/french/ui/Arial.font" />
-	<Font Name="ArialSmall" Filename="media/translations/french/ui/ArialSmall.font" />
-	<Font Name="ArialSmallBold" Filename="media/translations/french/ui/ArialSmallBold.font" />
-	
-	<LookNFeel Filename="media/translations/french/ui/hud/schemes/ceguiWidgets.looknfeel" />
+	<Font Name="Serif" Filename="media/translations/FRENCH/UI/Serif.font" />
+	<Font Name="SerifBig" Filename="media/translations/FRENCH/UI/SerifBig.font" />
+	<Font Name="SerifGrand" Filename="media/translations/FRENCH/UI/SerifGrand.font" />
+	<Font Name="SerifHuge" Filename="media/translations/FRENCH/UI/SerifHuge.font" />
+	<Font Name="SerifSmall" Filename="media/translations/FRENCH/UI/SerifSmall.font" />
+	<Font Name="Serif14" Filename="media/translations/FRENCH/UI/Serif14.font" />
+	<Font Name="System" Filename="media/translations/FRENCH/UI/System.font" />
+	<Font Name="Arial" Filename="media/translations/FRENCH/UI/Arial.font" />
+	<Font Name="ArialSmall" Filename="media/translations/FRENCH/UI/ArialSmall.font" />
+	<Font Name="ArialSmallBold" Filename="media/translations/FRENCH/UI/ArialSmallBold.font" />
+	<Font Name="CJKArialSmall" Filename="media/ui/CJKArialSmall.font" />
+	<Font Name="CJKArialSmallBold" Filename="media/ui/CJKArialSmallBold.font" />
+
+	<LookNFeel Filename="media/translations/FRENCH/UI/hud/schemes/ceguiWidgets.looknfeel" />
 	<WindowRendererSet Filename="CEGUIFalagardWRBase" />
 	<FalagardMapping WindowType="ceguiWidget/Button"      TargetType="CEGUI/PushButton"  Renderer="Falagard/Button"       LookNFeel="ceguiWidget/Button" />
 	<FalagardMapping WindowType="ceguiWidget/FrameWindow"  TargetType="CEGUI/FrameWindow" Renderer="Falagard/FrameWindow"  LookNFeel="ceguiWidget/FrameWindow" />
