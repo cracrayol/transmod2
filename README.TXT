@@ -20,7 +20,10 @@ Sinon, téléchargez le fichier zip et décompressez le fichier mod dans le doss
 Changelog (version MOD)
 -----------------------
 
-26 (23/08/2025) : 
+v28 (03/10/2026) : 
+	* Correction d'un crash sur la 1.26.x.1
+
+v27 (23/08/2025) : 
 	* Diverses corrections mineures sur les quêtes :		
 		* Le Manticore -> La Manticore
 		* Déserts d'Ossean -> Déserts Osseux
@@ -28,7 +31,7 @@ Changelog (version MOD)
 		* Antre des Esclavagistes -> Repaire des Esclavagistes
 		* Correction de traductions incorrectes et de certaines tournures de phrase
 
-v21...25 (07/05/2013 - 11/01/2014) : 
+v21...26 (07/05/2013 - 11/01/2014) : 
 	* Diverses corrections mineures
 
 v20 (26/04/2013) : 
